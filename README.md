@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Blacklockball
+- 👀 I’m interested in Art and Computer Science.
+- 🌱 I’m currently learning Python, HTML, CSS, and JS. (Some PHP at times too.)
+- 💞️ I’m looking to collaborate on currently nothing.
+- 📫 How to reach me blacklockball@gmail.com
